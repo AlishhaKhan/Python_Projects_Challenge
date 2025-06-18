@@ -14,9 +14,6 @@ This repository features a curated set of practical Python projects built during
 - Applied modular coding practices
 - Built deployable apps for real use cases
 
-## 🌐 Deployment
-Projects are hosted on **Streamlit Cloud** and version-controlled with **GitHub** for public access and collaboration.
-
 ---
 
 🧰 Tech Stack
