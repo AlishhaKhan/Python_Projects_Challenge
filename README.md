@@ -20,11 +20,13 @@ Projects are hosted on **Streamlit Cloud** and version-controlled with **GitHub*
 ---
 
 🧰 Tech Stack
-Category	Tools & Frameworks
-Language	Python 3.x
-Web Framework	Streamlit
-UI & Styling	Streamlit Widgets, Markdown, Custom CSS
-Data Handling	Pandas, JSON, CSV, SQLite (where applicable)
-Deployment	GitHub, Streamlit Cloud
-Version Control	Git, GitHub
-Environment	Virtualenv / .env for secret management
+| Category            | Tools & Frameworks                                |
+| ------------------- | ------------------------------------------------- |
+| **Language**        | Python 3.x                                        |
+| **Web Framework**   | Streamlit                                         |
+| **UI & Styling**    | Streamlit Widgets, Markdown, Custom CSS           |
+| **Data Handling**   | Pandas, JSON, CSV, SQLite                         |
+| **Deployment**      | GitHub, Streamlit Cloud                           |
+| **Version Control** | Git, GitHub                                       |
+| **Environment**     | Virtualenv, `.env` for secrets management         |
+| **Libraries**       | `cryptography`, `python-dotenv`, `re`, `requests` |
